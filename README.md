@@ -4,7 +4,8 @@ Hi, thanks for visiting my portfolio repo! 👋
 
 This project is my **personal portfolio website** built using **HTML, CSS, and JavaScript**. It’s a simple, responsive site where I showcase my **skills, projects, and resume**. The idea behind creating this was to have a single place where recruiters and collaborators can learn about me and see the work I’ve done.  
 
-🔗 **Live Portfolio:** [Click here](https://Saniya4418.github.io/Portfolio-website/) 
+🔗 **Live Portfolio:** [Click here](https://shaiksaniya.github.io/Portfolio-website/)
+) 
 📄 **Resume:** [Download here](S_Saniya_CV.pdf)  
 
 ---
