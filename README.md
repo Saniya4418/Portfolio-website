@@ -42,7 +42,7 @@ If you’d like to reach out, here are my details:
 
 - 📧 Email: [shaiksaniya173@gmail.com](mailto:shaiksaniya173@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shaik-saniya-317992270](https://www.linkedin.com/in/shaik-saniya-317992270)  
-- 🖥️ GitHub: [github.com/shaiksaniya](https://github.com/shaiksaniya)  
+- 🖥️ GitHub: [github.com/shaiksaniya](https://github.com/Saniya4418)  
 
 ---
 
